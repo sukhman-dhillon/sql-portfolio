@@ -24,3 +24,10 @@ This repository contains SQL analytics projects using public datasets in Google 
   - Average order value for first vs repeat orders
   - Purchase frequency distribution
   - Top customers by lifetime revenue
+  
+- Project 04: Inventory and Operations Insights
+  - Weekly product sales velocity
+  - Category-level return rates
+  - Demand consistency and volatility analysis
+  - Fast, medium, and slow-moving product classification
+  - High-revenue, low-volume product identification
