@@ -1,6 +1,6 @@
 # SQL Portfolio (Google BigQuery)
 
-This repository contains SQL analytics projects using public datasets in Google BigQuery.
+This repository contains SQL analytics projects using public datasets in Google BigQuery. Each project includes business questions, SQL queries, and summarized results.
 
 ## Projects
 - Project 01: Ecommerce Sales Performance
