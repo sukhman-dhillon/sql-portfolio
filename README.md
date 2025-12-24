@@ -16,3 +16,11 @@ This repository contains SQL analytics projects using public datasets in Google 
   - High-value order share by channel
   - Paid vs Organic channel comparison
   - Best days of week for revenue and orders
+
+### Project 03: Customer Retention & Repeat Purchase Analysis
+- One time vs repeat customer distribution
+- Revenue share from repeat customers
+- Time between first and second purchase
+- Average order value for first vs repeat orders
+- Purchase frequency distribution
+- Top customers by lifetime revenue
