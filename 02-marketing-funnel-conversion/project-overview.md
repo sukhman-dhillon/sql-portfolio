@@ -1,19 +1,17 @@
-Goal
+# Project 02: Marketing Funnel and Conversion Analysis
 
-Analyze marketing funnel performance to understand how different traffic sources contribute to revenue, customer value, retention, and order quality.
+## Goal
+Analyze marketing funnel performance to understand how traffic sources contribute to revenue, customer value, retention, and order quality.
 
-Dataset
-
+## Dataset
 BigQuery public dataset: bigquery-public-data.thelook_ecommerce
 
-Tables used
-
+## Tables used
 - order_items
 - orders
 - users
 
-Skills shown
-
+## Skills shown
 - Aggregations (SUM, AVG, COUNT)
 - JOINs across multiple tables
 - CASE WHEN segmentation
@@ -21,8 +19,7 @@ Skills shown
 - Customer-level metrics
 - Filtering and grouping
 
-Questions answered
-
+## Questions answered
 - How much revenue and how many orders come from each traffic source?
 - How does average order value compare across channels?
 - How many customers are new versus returning by traffic source?
